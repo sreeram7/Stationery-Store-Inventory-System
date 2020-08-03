@@ -1,0 +1,146 @@
+﻿@model LogicUniversityWeb.Models.Delegations
+
+@{
+    ViewBag.Title = "DelegateEmployee";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+
+@section scripts {
+    <script src="~/Scripts/jquery-ui-1.12.1.min.js"></script>
+
+    <script>
+
+       $(function () {
+            var dateFormat = "mm/dd/yy",
+                StartDate = $("#StartDate")
+                    .datepicker({
+                        defaultDate: "+1w",
+                        changeMonth: true,
+                        changeYear: true,
+                        minDate:0,
+                        maxDate: new Date(2025, 0, 1),
+                        showOn: "both",
+                        buttonText: "<i class='fa fa-calendar'></i>"
+                    })
+                    .on("change", function () {
+                        EndDate.datepicker("option", "minDate", getDate(this));
+                    }),
+
+                EndDate = $("#EndDate").datepicker({
+                    defaultDate: "+1w",
+                    changeMonth: true,
+                    changeYear: true,
+                    minDate: 0,
+                    maxDate: new Date(2025, 0, 1),
+                    showOn: "both",
+                    buttonText: "<i class='fa fa-calendar'></i>"
+
+                })
+                    .on("change", function () {
+                        StartDate.datepicker("option", "maxDate", getDate(this));
+                    });
+
+            function getDate(element) {
+                var date;
+                try {
+                    date = $.datepicker.parseDate(dateFormat, element.value);
+                } catch (error) {
+                    date = null;
+                }
+
+                return date;
+            }
+        });
+
+
+    </script>
+
+}
+
+
+@{
+
+    <body>
+        <div class="main">
+            <h3><b>Allocation of Temporary Authority</b></h3><br />
+
+            @using (Html.BeginForm("SaveDelegation", "DepartmentRep", FormMethod.Post, new { name = "SaveDelegationForm" }))
+
+            {
+                <table class="AssgnTable">
+                    <tr>
+                    </tr>
+                    <tr>
+                        <td>
+                            <h6>@Html.DisplayNameFor(Model => Model.StartDate):</h6>
+
+                        </td>
+                        <td>
+                            <!-- <input type="date" name="txtStartDate" id="StartDate" min="2018-01-01" max="2099-12-31">
+                            Html.EditorFor(Model => Model.StartDate, new { htmlAttributes = new { class = "datepicker" } }) -->
+                            <input type="text" id="StartDate" name="StartDate">
+
+
+                        </td>
+                    </tr>
+                    <tr></tr>
+                    <tr>
+                        <td>
+                            <h6>@Html.DisplayNameFor(model => model.EndDate):</h6>
+                        </td>
+                        <td>
+                            <!--  <input type="date" name="txtEndDate" id="EndDate" min="2018-01-01" max="2099-12-31">
+    Html.EditorFor(Model => Model.EndDate, new { htmlAttributes = new { class = "datepicker" } }) -->
+
+                            <input type="text" id="EndDate" name="EndDate">
+
+
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                        <td>
+                            <h6>Select Employee:</h6>
+                        </td>
+                        <td>
+                            @Html.DropDownList("UserID", ViewBag.DepartmentEmps as SelectList, "Select Employee")
+
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                        <td>
+                        </td>
+                        <td>
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <input type="submit" class="button button1" name="btnSubmitDelegation" value="Allocate" />
+                        </td>
+                    </tr>
+
+
+                </table>
+            }
+        </div>
+    </body>
+
+
+
+}
+<style>
+    .AssgnTable tr {
+        height: 14px;
+    }
+</style>
+
+

@@ -1,0 +1,41 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    <body>              
+        <div class="main">
+            <h3><b>Purchase Order Form</b></h3><br />
+            <form method="post" action="@Url.Action("CreatePurchaseOrder","Supplier")">
+                <table id="dtBasicExample" class="table table-sm" cellspacing="0">
+                    <tr>
+                        <td>DescriptionPurchase</td>
+                        <td><input type="text" value="" name="DescriptionPurchase" /></td>
+                    </tr>
+                    <tr>
+                        <td>SupplierID</td>
+                        <td><input type="text" value="" name="SupplierID" /></td>
+                    </tr>
+                    <tr>
+                        <td>ItemID</td>
+                        <td><input type="text" value="" name="ItemID" /></td>
+                    </tr>
+                    <tr>
+                        <td>PurchaseOrderStatus</td>
+                        <td><input type="text" value="" name="PurchaseOrderStatus" /></td>
+                    </tr>
+                    <tr>
+                        <td>Quantity</td>
+                        <td><input type="text" value="" name="OrderQuantity" /></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" align="center">
+                            <input type="submit" value="Create" class="btn btn-primary" />
+                        </td>
+                    </tr>
+                </table>
+
+            </form>
+        </div>
+    </body>
+}

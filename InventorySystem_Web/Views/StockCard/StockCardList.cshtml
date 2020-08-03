@@ -1,0 +1,40 @@
+﻿
+
+
+@{ Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script>
+    $(document).ready(function () {
+        $("#tblDesign").DataTable();
+    });
+</script>
+@{
+    <body>
+        <div class="main">
+            <h3><b>Stock Card List</b></h3><br />
+            <table class="table  table-sm" cellspacing="0" id="tblDesign">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Item ID</th>
+                        <th>Item Name</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var r in ViewBag.stockCardList)
+                    {
+                        <tr>
+                            <td>@r.ItemID</td>
+                            <td>@r.ItemName</td>
+                            <td><u><font color="blue">@Html.ActionLink("Details", "StockCardDetail", new { stockCardID = r.StockCardID, id = r.ItemID }, new { @class = "btn btn-primary" })</font></u></td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </body>
+}
+
+
+

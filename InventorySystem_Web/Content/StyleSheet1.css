@@ -1,0 +1,184 @@
+﻿/*For Layout*/
+.Topleft {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.Topright {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    border-radius: 50%;
+}
+
+.ToprightWelcome {
+    position: absolute;
+    top: 40px;
+    right: 100px;
+    
+}
+
+.sidenav {
+    height: 100%;
+    width: 210px;
+    position: fixed;
+    z-index: 1;
+    top: 0%;
+    left: 0;
+    background-color: #24333E;
+    overflow-x: hidden;
+    padding-top: 190px;
+}
+
+    .sidenav a {
+        padding: 6px 8px 6px 16px;
+        text-decoration: none;
+        font-size: 18px;
+        color: #818181;
+        display: block;
+    }
+
+        .sidenav a:hover {
+            /*background-color: #185683;*/
+            color: white;
+            color: white;
+        }
+
+    .sidenav .closebtn {
+        position: absolute;
+        top: 172px;
+        right: 25px;
+        font-size: 22px;
+        margin-left: 50px;
+   
+    }
+
+.main {
+    margin-left: 200px; /* Same as the width of the sidenav */
+    font-size: 25px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+    /* width:1050px;*/
+}
+/*For Layout*/
+
+/*For View Catalogue*/
+.container {
+    padding-top: 65px;
+    padding-right: 5px;
+    padding-bottom: 65px;
+    padding-left: 750px;
+    overflow: auto;
+}
+.table {
+    overflow: auto;
+}
+.button {   
+    background-color: #2699FB;
+    border: none;
+    color: white;
+    padding: 10px 12px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 2px;
+    cursor: pointer;
+    width: 120px
+}
+
+.button1 {
+    border-radius: 14px;
+}
+
+.textboxx {
+    border-style: none;
+    width: auto;
+}
+
+    .textboxx:hover {
+        border-style: none;
+    }
+
+.ItemID {
+    visibility: hidden 
+}
+
+.submitfrom {
+    background-color: #2AC449;
+    border: none;
+    color: white;
+    padding: 10px 12px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 2px;
+    cursor: pointer;
+    width: 120px
+}
+
+/*For View Catalogue*/
+
+/*For RequestForm Catalogue*/
+.savefrom1 {
+    background-color:#2699FB;
+    border: none;
+    color: white;
+    padding: 10px 12px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 2px;
+    cursor: pointer;
+    width: 120px
+}
+/*For RequestForm Catalogue*/
+
+/*For View Request Info*/
+.container2 {
+    margin-top: 30px;
+    margin-left: 60px;
+    border-style:hidden;
+   
+}
+
+.divforsubmitform {
+    top: 650px;
+    left: 300px;
+    right: 150px;
+    bottom: 50px;
+    position: absolute;
+}
+
+
+.Requestinfo {
+    padding-top: 65px;
+    padding-right: 5px;
+    padding-bottom: 65px;
+    padding-left: 750px;
+    overflow: auto;
+}
+
+/*For View Request Info*/
+
+
+.cancelorder {
+    background-color: #FF0040;
+    border: none;
+    color: white;
+    padding: 10px 12px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 2px;
+    cursor: pointer;
+    width: 120px
+}
+
+
+
+
+tbody {
+    
+    height: 250px; /* Just for the demo          */
+    overflow-y: auto; /* Trigger vertical scroll    */
+    overflow-x: hidden; /* Hide the horizontal scroll */
+}

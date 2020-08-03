@@ -1,0 +1,84 @@
+﻿@model LogicUniversityWeb.Models.Users
+@{
+    Layout = null;
+}
+
+
+@*Action Mtd (Login), Controller (Login)*@
+
+@using (Html.BeginForm("Login", "Home", new { ReturnUrl = Request["ReturnUrl"]} ,FormMethod.Post))
+
+{
+    <div class="container">
+        <table align="center">
+            <tr>
+                <td>@Html.LabelFor(x => x.Username)</td>
+                <td>@Html.TextBoxFor(x => x.Username)</td>
+                <td>@Html.ValidationMessageFor(x => x.Username)</td>
+            </tr>
+            <tr>
+                <td>@Html.LabelFor(x => x.Passcode)</td>
+                <td>@Html.PasswordFor(x => x.Passcode)</td>
+                <td>@Html.ValidationMessageFor(x => x.Passcode)</td>
+            </tr>
+            <tr>
+
+                <td colspan="2" align="right"><input type="submit" value="Login"></td>
+            </tr>
+        </table>
+    </div>
+
+}
+
+
+<style>
+
+    .field-validation-error {
+        color: darkred;
+    }
+    tr, td {
+        padding: 2px
+    }
+
+    .container {
+        position: relative;
+        border-radius: 5px;
+        background-color: #f2f2f2;
+        padding: 20px 0 30px 0;
+    }
+
+    input {
+        width: 100%;
+        padding: 12px;
+        border: none;
+        border-radius: 4px;
+        margin: 5px 0;
+        opacity: 0.85;
+        display: inline-block;
+        font-size: 17px;
+        line-height: 20px;
+        text-decoration: none;
+    }
+
+        input:hover {
+            opacity: 1;
+        }
+
+        input[type=submit] {
+            background-color: #4CAF50;
+            color: white;
+            cursor: pointer;
+        }
+
+            input[type=submit]:hover {
+                background-color: #45a049;
+            }
+    table {
+        position: center;
+        width: 50%;
+        margin: auto;
+        padding: 0 50px;
+        margin-top: 6px;
+    }
+</style>
+

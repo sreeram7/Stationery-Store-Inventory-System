@@ -1,0 +1,42 @@
+﻿@model  LogicUniversityWeb.Models.Stationary
+@using LogicUniversityWeb.Models
+@{    
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    <body>
+        <div class="main">
+            <h3><b>Stationery Catalogue</b></h3><br />
+            <table id="dtBasicExample" class="table table-sm" cellspacing="0">
+                <thead class="thead-dark">
+                    <tr>
+                        <th class="th-sm">Item ID</th>
+                        <th class="th-sm">Item Name</th>
+                        <th class="th-sm">Unit Of Measure</th>
+                        <th class="th-sm"></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Stationary item in ViewBag.StatList)
+                    {
+                        <tr>
+                            @using (Html.BeginForm("ViewSupplier", "Supplier", FormMethod.Post))
+                            {
+                                <td><input type="text" name="itemID" value="@item.ItemID" readonly class="textboxx" onfocus="HideBorder"></td>
+                                <td><input type="text" name="itemName" onfocus="HideBorder" class="textboxx" value="@item.ItemName" readonly> </td>
+                                <td><input type="text" name="UOM" onfocus="HideBorder" class="textboxx" value="@item.UOM" readonly></td>
+                                <td><input type="submit" class="btn btn-primary" value="View" /></td>
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </body>
+}
+
+
+
+
+

@@ -1,0 +1,432 @@
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\LogicUniversityAPI.dll.config
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\LogicUniversityAPI.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\LogicUniversityAPI.pdb
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\csc.exe
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\csi.exe
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.Helpers.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.Mvc.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.Razor.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\WebGrease.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.Helpers.xml
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.xml
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.Mvc.xml
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.Razor.xml
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.xml
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.csproj.CopyComplete
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.dll
+C:\Users\User\source\repos\LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.pdb
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\LogicUniversityAPI.dll.config
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\LogicUniversityAPI.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\LogicUniversityAPI.pdb
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\csc.exe
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\csc.exe.config
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\csc.rsp
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\csi.exe
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\csi.exe.config
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\csi.rsp
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.AppContext.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Console.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\vbc.exe
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\vbc.exe.config
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\vbc.rsp
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\Antlr3.Runtime.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\Newtonsoft.Json.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.Helpers.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.Mvc.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.Optimization.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.Razor.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\WebGrease.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\Newtonsoft.Json.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.Helpers.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.Mvc.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.Optimization.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.Razor.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\Antlr3.Runtime.pdb
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.csprojAssemblyReference.cache
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.csproj.CopyComplete
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.pdb
+C:\Users\User\Desktop\Sem_2\ADFinalCode\LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Sem_2\ADFinalCode\LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.dll
+C:\Users\User\Desktop\Sem_2\ADFinalCode\LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.pdb
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\LogicUniversityAPI.dll.config
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\LogicUniversityAPI.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\LogicUniversityAPI.pdb
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csc.exe
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csc.exe.config
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csc.rsp
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csi.exe
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csi.exe.config
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csi.rsp
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.AppContext.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Console.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\vbc.exe
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\vbc.exe.config
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\vbc.rsp
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\Antlr3.Runtime.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\Newtonsoft.Json.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Helpers.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Mvc.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Optimization.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Razor.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\WebGrease.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\Newtonsoft.Json.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Helpers.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Mvc.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Optimization.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Razor.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\Antlr3.Runtime.pdb
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.csprojAssemblyReference.cache
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.csproj.CopyComplete
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.dll
+C:\Users\e0457816\Documents\NUS\AD\Web+Api\Final_LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.pdb
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\LogicUniversityAPI.dll.config
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\LogicUniversityAPI.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\LogicUniversityAPI.pdb
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Buffers.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Memory.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\WebGrease.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Buffers.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Memory.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.csproj.CopyComplete
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.dll
+C:\Users\User\Desktop\Sem_2\Day12\Store\Final_LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.pdb
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\LogicUniversityAPI.dll.config
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\LogicUniversityAPI.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\LogicUniversityAPI.pdb
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Buffers.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Memory.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\WebGrease.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Buffers.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Memory.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.csproj.CopyComplete
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.dll
+C:\Users\User\Desktop\Sem_2\Team 6 WEB+Android\Final_LogicUniversity\LogicUniversityAPI\obj\Debug\LogicUniversityAPI.pdb

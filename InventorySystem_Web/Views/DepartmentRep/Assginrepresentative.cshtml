@@ -1,0 +1,62 @@
+﻿@model LogicUniversityWeb.Models.Users
+@using LogicUniversityWeb.Models
+@{
+    ViewBag.Title = "Assginrepresentative";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<body>
+    <div class="main">
+        <h3><b>Assign Representative</b></h3><br />
+        <br/>
+
+        <p><b>Current Department Representative :&nbsp;&nbsp;</b> <input type="text" name="itemID" id="currentCollectionPoint" value="@ViewBag.DepRepName" readonly></p>
+    </div>
+    <br />
+    <div class="main">
+
+        <h4> <b>Change Department Representative to:</b> </h4>
+        <div style="margin-left:320px">
+
+            @using (Html.BeginForm("SaveRepresentative", "DepartmentRep", FormMethod.Post))
+            {
+                <table>
+                    <tr>
+                    </tr>
+                    <tr>
+                        <td>
+                            <br />
+                            <br />
+                            <h6>Select Employee:</h6>
+                        </td>
+                        <td>
+                            <br />
+                            <br />
+                             @Html.DropDownList("UserID", ViewBag.DeptStaff as SelectList, "Select Employee") 
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                        </td>
+                        <td>
+                        </td>
+
+                    </tr>
+                    <tr>
+                        <td>
+                        </td>
+                        <td>
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <input type="submit" class="button button1" value="Assign" />
+                        </td>
+                    </tr>
+
+                </table>
+            }
+        </div>
+    </div>
+</body>
+}

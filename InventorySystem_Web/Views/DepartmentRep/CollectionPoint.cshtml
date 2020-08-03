@@ -1,0 +1,50 @@
+﻿@model LogicUniversityWeb.Models.Department
+@using LogicUniversityWeb.Models
+@{
+    ViewBag.Title = "CollectionPoint";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    Department department = (Department)ViewData["deptInfo"];
+}
+<script type="text/javascript">
+    function FormSaved(event) {
+        alert("Collection Updated!")
+    }
+</script>
+
+@{
+    <body>
+        <div class="main">
+            <h3><b>Collection Point:</b></h3><br />
+            <p><b>Current CollectionPoint:&nbsp;&nbsp;</b> <input type="text" name="itemID" id="currentCollectionPoint" value="@department.CollectionPoint" readonly></p>    
+        </div>
+        <br />
+  
+        <div class="main">
+
+            <h4> <b>Change Collection point to:</b> </h4>
+            <div style="margin-left:200px">
+                @using (Html.BeginForm("UpdateCP", "DepartmentRep", FormMethod.Post))
+                {
+
+                <p> <input type="radio" name="Collectionpoint" value="School of Computing" />  School of Computing </p>
+                    
+                <p><input type="radio" name="Collectionpoint" value="NUS Business School" />  NUS Business School</p>
+                    
+                <p> <input type="radio" name="Collectionpoint" value="Department Seminar hall" />  Department Seminar hall</p>
+                   
+                <p>  <input type="radio" name="Collectionpoint" value="Department Computer Lab" />  Department Computer Lab</p>
+                    
+                <p> <input type="radio" name="Collectionpoint" value="School of Science" />  School of Science</p>
+                    
+                <p> <input type="radio" name="Collectionpoint" value="NUS High School" />  NUS High School</p>
+                    
+                    <input type="text" name="DepartmentID" value="@department.DepartmentID" class="ItemID" readonly />
+                   
+
+                    <input type="submit" value="Update" class="button button1" onclick="FormSaved()">
+                }
+            </div>
+        </div>
+    </body>
+
+}

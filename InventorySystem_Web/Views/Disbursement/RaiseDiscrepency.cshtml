@@ -1,0 +1,56 @@
+﻿@model LogicUniversityWeb.Models.DisbursementDetails
+@using LogicUniversityWeb.Models
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    RequisitionDetails Db = (RequisitionDetails)ViewData["Db"];
+}
+@{
+    <body>
+        <div class="main">
+            <h3><b>Raise Discrepancy</b></h3><br />
+            @{
+                using (Html.BeginForm("SubmitDiscrepency", "Disbursement", FormMethod.Post))
+                {
+                    <table id="dtBasicExample" class="table table-sm" cellspacing="0">
+                        <tr>
+                            <td>Disbursement ID:</td>
+                            <td> <input type="text" name="DisbursementID" class="ItemNo" value="@Db.DisbursementID" readonly /></td>
+                        </tr>
+                        <tr>
+                            <td>Item ID:</td>
+                            <td><input type="text" name="itemID" class="ItemNo" value="@Db.ItemID" readonly /></td>
+                        </tr>
+                        <tr>
+                            <td>Quantity They want:</td>
+                            <td><input type="text" name="ActualQty" class="text" value="@Db.ActualQty" readonly /></td>
+                        </tr>
+                        <tr>
+                            <td>Discrepency Quantity:</td>
+                            <td><input type="text" name="DeliveredQty" class="text" value="@Db.DeliveredQty" readonly /></td>
+                        </tr>
+                        <tr>
+                            <td>Reason:</td>
+                            <td><input type="text" name="Reason" class="text" placeholder="Provide reason" /></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="center">
+                                <input type="submit" class="btn btn-primary" value="Submit" />
+                            </td>
+                        </tr>
+                    </table>
+                }
+            }
+        </div>
+    </body>
+
+}
+
+
+
+
+
+
+
+
+

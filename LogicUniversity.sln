@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicUniversityWeb", "LogicUniversityWeb\LogicUniversityWeb.csproj", "{142B58DE-49F2-42BA-BF97-6B8F891FD7E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicUniversityAPI", "LogicUniversityAPI\LogicUniversityAPI.csproj", "{C867B8D7-0944-4BCD-8542-7C409B6B8284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{142B58DE-49F2-42BA-BF97-6B8F891FD7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142B58DE-49F2-42BA-BF97-6B8F891FD7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142B58DE-49F2-42BA-BF97-6B8F891FD7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142B58DE-49F2-42BA-BF97-6B8F891FD7E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C867B8D7-0944-4BCD-8542-7C409B6B8284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C867B8D7-0944-4BCD-8542-7C409B6B8284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C867B8D7-0944-4BCD-8542-7C409B6B8284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C867B8D7-0944-4BCD-8542-7C409B6B8284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5336B5F-78B5-4760-99F8-C173BEA90210}
+	EndGlobalSection
+EndGlobal

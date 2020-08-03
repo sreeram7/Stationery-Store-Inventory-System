@@ -1,0 +1,47 @@
+﻿
+@{
+     Layout = "~/Views/Shared/_Layout.cshtml";    
+}
+    <body>
+        <div class="main">
+            <h3><b>StockTrendAnalysis</b></h3><br />
+                <form action="/Report/GenerateStockTrendAnalysis" method="post">
+                <table class="table  table-sm" cellspacing="0">
+                    <tr>
+                        <th width="30%">
+                            Category :
+                        </th>
+                        <td>
+                            <select name="selectedcategory" id="selectcategory">
+                                @foreach (var c in ViewBag.categories)
+                                {
+                                    <option value="@c.CategoryName">@c.CategoryName</option>
+                                }
+                            </select>
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th width="20%">
+                            Department :
+                        </th>
+                        <td>
+                            <select name="selecteddepartment" id="selectdepartment">
+                                @foreach (var d in ViewBag.departments)
+                                {
+                                    <option value="@d.Departmentname">@d.Departmentname</option>
+                                }
+                            </select>
+                        </td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td colspan="3" align="right">
+                            <input type="submit" class="btn btn-primary" name="button" value="Predict Forward 3 Months" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </body>
+

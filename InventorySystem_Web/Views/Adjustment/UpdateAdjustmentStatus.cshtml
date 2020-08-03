@@ -1,0 +1,89 @@
+﻿
+@{ Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script>
+    @*$(document).ready(function () {
+        $("#tblSupervisor TBODY TR").each(function () {
+            var row = $(this);
+            BtnStatus = row.find("td:eq(4) input[type='text']").val();
+            BtnDiscrepancyID = row.find("td:eq(8) input[type='text']").val();
+
+            if (BtnStatus > 250 && BtnDiscrepancyID) {
+                $("#btnApprove").hide();
+            }
+        });
+    });*@
+
+    $(document).ready( function () {
+        $.each(ViewBag.adjustDetails, function () {
+            var row = $(this);
+            BtnStatus = row.find("td:eq(4) input[type='text']").val();
+            BtnDiscrepancyID = row.find("td:eq(8) input[type='text']").val();
+
+            if (BtnStatus > 250 && BtnDiscrepancyID) {
+                $("#btnApprove").hide();
+            }
+        });
+    });
+    function approve() {
+        alert("Approve");
+    }
+    function reject() {
+        alert("Reject");
+    }
+    function passToMgr() {
+        alert("Pass to Manager");
+    }
+</script>
+@{
+    <body>
+        <div class="main">
+            <h3><b>Adjustment List</b></h3><br />
+            <table class="table  table-sm" cellspacing="0" id="tblSupervisor">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Item Name</th>
+                        <th>Discrepancy Qty</th>
+                        <th>Reason</th>
+                        <th>DiscrepancyStatus</th>
+                        <th>Amount</th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody id="BtnSupervisor">
+                    @foreach (var a in ViewBag.adjustDetails)
+                    {
+                        <tr>
+                            @using (Html.BeginForm("UpdateStatus", "Adjustment", FormMethod.Post))
+                            {
+                                <td><input type="text" name="ItemName" class="textboxx" value="@a.ItemName"></td>
+                                <td><input type="text" name="DiscrepancyQty" class="textboxx" value="@a.DiscrepancyQty"></td>
+                                <td><input type="text" name="Reason" class="textboxx" value="@a.Reason" /></td>
+                                <td><input type="text" name="DiscrepancyStatus" class="textboxx" value="@a.DiscrepancyStatus"></td>
+                                <td>
+                                    <input type="text" name="Amount" class="textboxx" id="amountSupervisor" value="@a.Amount" />
+                                </td>
+                                <td>
+                                    <input type="submit" class="btn btn-success" id="btnApprove" onclick="approve()" value="Approve" />
+                                </td>
+                                <td>
+                                    <a href="@Url.Action("sendRejectMailSup", "Adjustment")" class="btn btn-danger" onclick="reject()">Reject</a>
+                                </td>
+                                <td>
+                                    <a href="@Url.Action("sendMail", "Adjustment")" class="btn btn-primary" onclick="passToMgr()">PassToMgr</a>
+
+                                </td>
+                                <td><input type="text" name="DiscrepencyID" class="ItemID" value="@a.DiscrepencyID" /></td>
+
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </body>
+}
+

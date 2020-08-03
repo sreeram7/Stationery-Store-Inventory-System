@@ -1,0 +1,61 @@
+﻿
+@{ Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+@{
+    <body>
+        <div class="main">
+            <h3><b>Adjustment List</b></h3><br />
+            <table  class="table  table-sm" cellspacing="0">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Item Name</th>
+                        <th>Discrepancy Qty</th>
+                        <th>Reason</th>
+                        <th>DiscrepancyStatus</th>
+                        <th>Amount</th>
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var a in ViewBag.adjustDetails)
+                    {
+                        <tr>
+                            @using (Html.BeginForm("UpdateStatus", "Adjustment", FormMethod.Post))
+                            {
+                                <td><input type="text" name="ItemName" class="textboxx" value="@a.ItemName"></td>
+                                <td><input type="text" name="DiscrepancyQty" class="textboxx" value="@a.DiscrepancyQty"></td>
+                                <td><input type="text" name="Reason" class="textboxx" value="@a.Reason" /></td>
+                                <td><input type="text" name="DiscrepancyStatus" class="textboxx" value="@a.DiscrepancyStatus"></td>
+                                <td>
+                                    @a.Amount
+                                </td>
+                                <td>
+                                    <input type="submit" class="btn btn-success" id="btnWishlist" onclick="approve()" value="Approve" />
+                                </td>
+                                <td>
+                                    <a href="@Url.Action("sendRejectMail", "Adjustment")" class="btn btn-danger" onclick="reject()">Reject</a>
+
+                                </td>
+                                <td><input type="text" name="DiscrepencyID" class="ItemID" value="@a.DiscrepencyID" /></td>
+
+                            }
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </body>
+}
+
+<script>
+    function approve() {
+        alert("Approve");
+    }
+    function reject() {
+        alert("Reject");
+    }
+</script>
+

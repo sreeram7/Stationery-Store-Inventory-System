@@ -1,0 +1,75 @@
+﻿@model LogicUniversityWeb.Models.Department
+
+@{
+    ViewBag.Title = "Index";
+}
+<script src="~/Scripts/notify.js"></script>
+<h2>Department Collection</h2>
+
+
+@Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <div class="form-group">
+        @Html.LabelFor(model => model.Departmentname, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.Departmentname, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label col-md-2" for="CollectionPoint">Current Collection Point</label>
+        <div class="col-md-10" id="currentCollectionPoint">
+            @Model.CollectionPoint
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.CollectionPoint, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.RadioButtonFor(model => model.CollectionPoint, "School of Computing", new { htmlAttributes = new { @class = "form-control" } }) School of Computing <br />
+            @Html.RadioButtonFor(model => model.CollectionPoint, "NUS Business School", new { htmlAttributes = new { @class = "form-control" } }) NUS Business School <br />
+            @Html.RadioButtonFor(model => model.CollectionPoint, " Com1", new { htmlAttributes = new { @class = "form-control" } }) Com1 <br />
+            @Html.RadioButtonFor(model => model.CollectionPoint, "PGP", new { htmlAttributes = new { @class = "form-control" } }) PGP<br />
+            @Html.RadioButtonFor(model => model.CollectionPoint, "School of Science ", new { htmlAttributes = new { @class = "form-control" } }) School of Science <br />
+            @Html.RadioButtonFor(model => model.CollectionPoint, " NUS High School", new { htmlAttributes = new { @class = "form-control" } }) NUS High School<br />
+
+        </div>
+    </div>
+</div>
+
+
+
+<div class="form-group">
+    <div class="col-md-offset-2 col-md-10">
+        <a class="btn btn-default" onclick="updateFun()">Update</a>
+        <a class="btn btn-default">Cancel</a>   
+    </div>
+</div>
+
+@section Scripts{
+
+    <script type="text/javascript">
+
+            var updateFun = function () {
+
+                $.ajax({
+                    type: "POST",
+                    url: '/DepartmentStaff/Update',
+                    data: { 'id': @Model.DepartmentID, "point": $('input[name=CollectionPoint]:checked').val() },
+
+                    success: function (result) {
+                        $.notify(result.Message, "success");
+
+                        $("#currentCollectionPoint").html($('input[name=CollectionPoint]:checked').val())
+                        console.log("success");
+                    },
+                    error: function (result) {
+                        $.notify(result.Message, 'error');
+                        console.log("error");
+                    }
+                });
+            }
+    </script>
+
+}

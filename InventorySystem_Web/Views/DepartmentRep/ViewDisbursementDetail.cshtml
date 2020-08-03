@@ -1,0 +1,62 @@
+﻿@model LogicUniversityWeb.Models.Stationary
+@using LogicUniversityWeb.Models
+@{
+    ViewBag.Title = "ViewDisbursementDetail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int DisbursementID = (int)ViewData["DisbursementID"];
+    String Status = (String)ViewData["DisbursementStatus"];
+
+    Users Userinfo = (Users)ViewData["Userinfo"];
+}
+
+
+@{
+
+    <body>
+        <div class="main" style="margin-top:40px; margin-left:50px;">
+            <h3><b>ViewDisbursementDetail</b></h3>
+            <table id="dtBasicExample1" class="Requestinfo" cellspacing="0" border="1" style="width:1050px;">
+                <thead>
+                    <tr>
+                        <td><b>Disbursement ID: </b><input type="text" id="ReqID" name="RequestID" onfocus="HideBorder" class="textboxx" value="@DisbursementID" readonly></td>
+                        <td><b>Disbursement Status </b><input type="text" name="Date" onfocus="HideBorder" class="textboxx" value="@Status" readonly> </td>
+                        
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </body>
+
+    <body>
+        <div class="main" style="margin-top:20px; margin-left:50px;">
+            <h3><b>Disbursement Form</b></h3><br />
+            <table id="dtBasicExample" class="table table-sm" cellspacing="0" style="width:1050px;">
+                <thead class="thead-dark">
+                    <tr>
+                        <th class="th-sm">ItemName</th>
+                        <th class="th-sm">Unit of Measure</th>
+                        <th class="th-sm">Order Quantity</th>
+                        <th class="th-sm">Delivered Quantity</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Stationary item in ViewBag.DetailsOfDisbursement)
+                    {
+                        <tr>
+                            <td><input type="text" name="ItemName" onfocus="HideBorder" class="textboxx" value="@item.ItemName" readonly> </td>
+                            <td><input type="text" name="UOM" onfocus="HideBorder" class="textboxx" value="@item.UOM" readonly> </td>
+                            <td><input type="text" name="RequiredQuantity" onfocus="HideBorder" class="textboxx" value="@item.RequiredQuantity" readonly></td>
+                            <td><input type="text" name="RequiredQuantity" onfocus="HideBorder" class="textboxx" value="@item.ReorderQuantity" readonly></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </body>
+
+}
+
+
+
